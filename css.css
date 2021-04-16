@@ -1,5 +1,7 @@
 body {
     background-image: url("Br.gif");
     padding: 2.5%;
-    
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
     }
