@@ -1,9 +1,31 @@
 body {
     background-image: url("BG.gif");
     background-size: 10%;
-    padding: 2.5%;
-    }
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
 
 p {
     color: white;
-    }
+}
+
+h1 {
+    color: white;
+}
+
+.half{
+    width: 50%;
+}
+
+.tc {
+    text-align: center;
+}
+
+.block {
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    padding: 1%;
+    tab-size: 0%;
+}
