@@ -1,4 +1,11 @@
 body {
     background-image: url("flip.gif");
     background-size: 100%;
+    padding: 2em;
+}
+h1{
+    font-size: 36px;
+}
+p{
+    font-size: 26px;
 }
