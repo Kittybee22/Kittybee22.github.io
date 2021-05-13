@@ -5,7 +5,11 @@ body {
 }
 h1{
     font-size: 36px;
+    color: black;
+    background-color: rgba(122, 122, 122, 0.5);
 }
 p{
     font-size: 26px;
+    color: black;
+    background-color: rgba(122, 122, 122, 0.5);
 }

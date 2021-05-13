@@ -1,0 +1,27 @@
+body {
+    background-color: #F9DBBD ;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.thick {
+    border: 2px solid #4C4B63;
+}
+
+note {
+    background-color: #C46D5E;
+    color: black;
+    border-style: solid;
+    border-color: #ac5748;
+}
+
+/* 
+List of Hex Colors Used
+#C46D5E - Copper
+#ac5748 - Darker Copper
+#1B998B - Cyan
+#E71D36 - Rose
+#4C4B63 - Slate
+#F9DBBD - Cream
+*/ 
